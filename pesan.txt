@@ -1,1 +1,2 @@
 Ini adalah pesan pertama dari git.
+Ini adalah sebuah tulisan dari cabang1
