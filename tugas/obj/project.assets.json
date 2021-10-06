@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas1\\tugas1.csproj",
-      "projectName": "tugas1",
-      "projectPath": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas1\\tugas1.csproj",
+      "projectUniqueName": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas\\tugas.csproj",
+      "projectName": "tugas",
+      "projectPath": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas\\tugas.csproj",
       "packagesPath": "C:\\Users\\grez\\.nuget\\packages\\",
-      "outputPath": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas1\\obj\\",
+      "outputPath": "D:\\UNIRA\\Pemrograman .Net\\2020\\demogit\\tugas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\grez\\AppData\\Roaming\\NuGet\\NuGet.Config"

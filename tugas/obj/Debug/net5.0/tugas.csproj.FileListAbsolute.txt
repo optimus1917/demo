@@ -1,0 +1,16 @@
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.exe
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.deps.json
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.runtimeconfig.json
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.runtimeconfig.dev.json
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.dll
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\ref\tugas.dll
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\bin\Debug\net5.0\tugas.pdb
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.csproj.AssemblyReference.cache
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.AssemblyInfoInputs.cache
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.AssemblyInfo.cs
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.csproj.CoreCompileInputs.cache
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.dll
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\ref\tugas.dll
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.pdb
+D:\UNIRA\Pemrograman .Net\2020\demogit\tugas\obj\Debug\net5.0\tugas.genruntimeconfig.cache
